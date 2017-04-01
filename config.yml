@@ -1,0 +1,16 @@
+title_tags: [h1, title, h2, h3, h4]
+content_tags : [p]
+
+positive: [article, body, content, entry, hentry, main, page, pagination, post, text, blog, story]
+positive_weight: 25
+
+negative: [combx, comment, com, contact, foot, footer, footnote, masthead, media, meta, outbrain, promo, related, scroll, shoutbox, sidebar, sponsor, shopping, tags, tool, widget]
+negative_weight: 25
+
+unlikely_candidates: [hidden, combx, comment, community, disqus, extra, foot, menu, remark, rss, shoutbox, sidebar, sponsor, ad-break, agegate, pagination, pager, popup, tweet, twitter]
+
+min_text_length: 25
+max_line_length: 80
+
+min_link_density: 0.3
+max_link_density: 0.5
